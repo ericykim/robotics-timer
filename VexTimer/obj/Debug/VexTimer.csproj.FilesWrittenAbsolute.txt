@@ -1,0 +1,7 @@
+/Users/erickim/Desktop/robotics timer/VexTimer/VexTimer/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/erickim/Desktop/robotics timer/VexTimer/VexTimer/bin/Debug/VexTimer.dll.mdb
+/Users/erickim/Desktop/robotics timer/VexTimer/VexTimer/bin/Debug/VexTimer.dll
+/Users/erickim/Desktop/robotics timer/VexTimer/VexTimer/obj/Debug/VexTimer.dll
+/Users/erickim/Desktop/robotics timer/VexTimer/VexTimer/obj/Debug/VexTimer.dll.mdb
+/Users/erickim/Desktop/robotics timer/VexTimer/VexTimer/bin/Debug/Xamarin.Forms.Core.dll
+/Users/erickim/Desktop/robotics timer/VexTimer/VexTimer/bin/Debug/Xamarin.Forms.Xaml.dll

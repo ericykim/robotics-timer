@@ -1,0 +1,17 @@
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/bin/iPhoneSimulator/Debug/VexTimer.iOS.exe.mdb
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/bin/iPhoneSimulator/Debug/VexTimer.iOS.exe
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/obj/iPhoneSimulator/Debug/VexTimer.iOS.exe
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/obj/iPhoneSimulator/Debug/VexTimer.iOS.exe.mdb
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/bin/iPhoneSimulator/Debug/Xamarin.Insights.dll
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/bin/iPhoneSimulator/Debug/PLCrashReporterUnifiedBinding.dll
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/bin/iPhoneSimulator/Debug/VexTimer.dll
+/Users/erickim/Desktop/robotics timer/VexTimer/iOS/bin/iPhoneSimulator/Debug/VexTimer.dll.mdb
